@@ -43,7 +43,7 @@
          "type":"phones",
          "phones":[
             {
-               "name":"<b>Capitais e regiÃµes metropolitanas (OpÃ§Ã£o 5)</b>",
+               "name":"<b>Capitais e regiÃµes metropolitanas (OpÃ§Ã£o 7)</b>",
                "size":"18",
                "number":"3003 1000"
             },
@@ -55,7 +55,7 @@
             {
                "name":"<b>Acesso do exterior</b>",
                "number":"3003 1000",
-               "size":"18",
+               "size":"10",
                "prefix":"(55) 11 "
             }
          ]
