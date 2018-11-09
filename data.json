@@ -2573,7 +2573,7 @@
                                       {
                                       "type": "phones",
                                       "phones": [{
-                                                 "<b>Todo território nacional</b>",
+                                                 "title": "<b>Todo território nacional</b>",
                                                  "number": "0800 017 9798",
                                                  "size": "14"
                                                  }]
