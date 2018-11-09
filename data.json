@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 1,
     "configs": {
         "font": "NewJuneBook.otf",
         "text_color": "#000000",
@@ -2645,17 +2645,11 @@
                                       "size": "16"
                                       },
                                       {
-                                      "type": "text",
-                                      "title": "<b>Todo território nacional</b>",
-                                      "color": "#313131",
-                                      "font": "NewJuneBook.otf",
-                                      "size": "16"
-                                      },
-                                      {
                                       "type": "phones",
                                       "phones": [{
-                                                 "number": "0800 979 2345",
-                                                 "size": "14"
+                                                 "name": "<b>Todo território nacional</b>",
+                                                 "size": "16",
+                                                 "number": "3373 2222"
                                                  }]
                                       },
                                       {
