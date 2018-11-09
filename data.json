@@ -2571,15 +2571,9 @@
                                       "size": "16"
                                       },
                                       {
-                                      "type": "text",
-                                      "title": "<b>Todo território nacional</b>",
-                                      "color": "#313131",
-                                      "font": "NewJuneBook.otf",
-                                      "size": "16"
-                                      },
-                                      {
                                       "type": "phones",
                                       "phones": [{
+                                                 "<b>Todo território nacional</b>",
                                                  "number": "0800 017 9798",
                                                  "size": "14"
                                                  }]
