@@ -2692,10 +2692,15 @@
                                       {
                                       "type": "phones",
                                       "phones": [{
-                                                 "name": "<b>Todo território nacional2</b>",
+                                                 "name": "<b>Todo território nacional</b>",
                                                  "size": "16",
                                                  "number": "3373 7272",
                                                  "prefix": "(11)"
+                                                 },
+                                                 {
+                                                 "name": "<b>Capitais e regiões metropolitanas (Opção 5)</b>",
+                                                 "size": "18",
+                                                 "number": "3003 1000"
                                                  }]
                                       },
                                       {
