@@ -2690,11 +2690,18 @@
                                       "size": "16"
                                       },
                                       {
+                                      "type": "text",
+                                      "title": "<b>Todo território nacional</b>",
+                                      "color": "#313131",
+                                      "font": "NewJuneBook.otf",
+                                      "size": "16"
+                                      },
+                                      {
                                       "type": "phones",
                                       "phones": [{
-                                                 "name": "<b>Todo território nacional</b>",
                                                  "size": "16",
-                                                 "number": "(11) 4373 7272"
+                                                 "number": "3373 7272",
+                                                 "prefix": "(11) "
                                                  }]
                                       },
                                       {
