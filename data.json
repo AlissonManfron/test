@@ -1380,7 +1380,7 @@
         {
           "type": "text",
           "title": "Central de atendimento",
-          "color": "#E50934",
+          "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
