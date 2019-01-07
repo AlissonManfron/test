@@ -1792,14 +1792,14 @@
       },
         {
           "type": "text",
-          "title": "Meios de Comunicação",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>Todo território nacional</b>",
+          "title": "Todo território nacional",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
