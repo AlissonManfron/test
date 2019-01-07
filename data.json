@@ -26,14 +26,14 @@
   },
     {
       "type": "text",
-      "title": "Cliente Pessoa JÃºridica",
+      "title": "Cliente Pessoa Júridica",
       "color": "#D71D32",
       "font": "NewJuneBook.otf",
       "size": "16"
     },
     {
       "type": "text",
-      "title": "Para transaÃ§Ãµes, consultas e contrataÃ§Ãµes:",
+      "title": "Para transações, consultas e contratações:",
       "color": "#313131",
       "font": "NewJuneBook.otf",
       "size": "16"
@@ -41,7 +41,7 @@
     {
       "type": "phones",
       "phones": [{
-        "name": "<b>Capitais e regiÃµes metropolitanas (OpÃ§Ã£o 5)</b>",
+        "name": "<b>Capitais e regiões metropolitanas (Opção 5)</b>",
         "size": "18",
         "number": "3003 1000"
       },
@@ -70,14 +70,14 @@
     },
     {
       "type": "text",
-      "title": "ServiÃ§o de Atendimento ao Consumidor",
+      "title": "Serviço de Atendimento ao Consumidor",
       "color": "#D71D32",
       "font": "NewJuneBook.otf",
       "size": "16"
     },
     {
       "type": "text",
-      "title": "Para transaÃ§Ãµes, consultas e contrataÃ§Ãµes:",
+      "title": "Para transações, consultas e contratações:",
       "color": "#313131",
       "font": "NewJuneBook.otf",
       "size": "16"
@@ -103,14 +103,14 @@
       "icon_collapse_close": "",
       "usefulphones": [{
         "type": "text",
-        "title": "AlÃ´ Bradesco / Ouvidoria",
+        "title": "Alô Bradesco / Ouvidoria",
         "color": "#D71D32",
         "font": "NewJuneBook.otf",
         "size": "18"
       },
         {
           "type": "text",
-          "title": "<b>SAC - ServiÃ§os de <br>Atendimento ao <br>Consumidor</b>",
+          "title": "<b>SAC - Serviços de <br>Atendimento ao <br>Consumidor</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -124,7 +124,7 @@
         },
         {
           "type": "text",
-          "title": "Cancelamento, ReclamaÃ§Ãµes e informaÃ§Ãµes.",
+          "title": "Cancelamento, Reclamações e informações.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "14"
@@ -172,7 +172,7 @@
         },
         {
           "type": "text",
-          "title": "Atendimento de segunda a sexta-feira das 8h Ã s 18h, exceto feriados.",
+          "title": "Atendimento de segunda a sexta-feira das 8h � s 18h, exceto feriados.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "14"
@@ -184,21 +184,21 @@
     },
     {
       "type": "expand",
-      "title": "AlÃ´ Bradesco / Ouvidoria",
+      "title": "Alô Bradesco / Ouvidoria",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "AlÃ´ Bradesco",
+        "title": "Alô Bradesco",
         "color": "#297EF5",
         "font": "NewJuneBook.otf",
         "size": "26"
       },
         {
           "type": "text",
-          "title": "<b>SAC - ServiÃ§o de Atendimento ao Consumidor<br>Cancelamentos, ReclamaÃ§Ãµes e InformaÃ§Ãµes</b>",
+          "title": "<b>SAC - Serviço de Atendimento ao Consumidor<br>Cancelamentos, Reclamações e Informações</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -253,7 +253,7 @@
         },
         {
           "type": "text",
-          "title": "Atendimento de segunda a sexta-feira das 8h Ã s 18h, exceto feriados",
+          "title": "Atendimento de segunda a sexta-feira das 8h � s 18h, exceto feriados",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -265,28 +265,28 @@
     },
     {
       "type": "expand",
-      "title": "Fone FÃ¡cil Bradesco",
+      "title": "Fone Fácil Bradesco",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "Fone FÃ¡cil Bradesco",
+        "title": "Fone Fácil Bradesco",
         "color": "#297EF5",
         "font": "NewJuneBook.otf",
         "size": "26"
       },
         {
           "type": "text",
-          "title": "(RealizaÃ§Ãµes de TransaÃ§Ãµes Financeiras)",
+          "title": "(Realizações de Transações Financeiras)",
           "color": "#297EF5",
           "font": "NewJuneBook.otf",
           "size": "18"
         },
         {
           "type": "text",
-          "title": "Por meio deste canal, vocÃª consulta a qualquer momento, o saldo de suas contas e realiza transaÃ§Ãµes bancÃ¡rias em nosso Atendimento Personalizado, <b>dia e noite, 7 dias por semana:</b>",
+          "title": "Por meio deste canal, você consulta a qualquer momento, o saldo de suas contas e realiza transações bancárias em nosso Atendimento Personalizado, <b>dia e noite, 7 dias por semana:</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -296,7 +296,7 @@
         },
         {
           "type": "text",
-          "title": "<b>Capitais e RegiÃµes Metropolitanas:</b>",
+          "title": "<b>Capitais e Regiões Metropolitanas:</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -312,7 +312,7 @@
         },
         {
           "type": "text",
-          "title": "<b>Demais RegiÃµes:</b>",
+          "title": "<b>Demais Regiões:</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -347,7 +347,7 @@
         },
         {
           "type": "text",
-          "title": "Para utilizar esse serviÃ§o, Ã© necessÃ¡rio que vocÃª possua a senha de quatro dÃ­gitos, que pode ser cadastrada em sua AgÃªncia e a Chave de SeguranÃ§a Bradesco (EletrÃ´nica ou CartÃ£o).",
+          "title": "Para utilizar esse serviço, é necessário que você possua a senha de quatro dígitos, que pode ser cadastrada em sua Agência e a Chave de Segurança Bradesco (Eletrônica ou Cartão).",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -359,28 +359,28 @@
     },
     {
       "type": "expand",
-      "title": "Central de CrÃ©dito",
+      "title": "Central de Crédito",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "Central de CrÃ©dito",
+        "title": "Central de Crédito",
         "color": "#297EF5",
         "font": "NewJuneBook.otf",
         "size": "26"
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>Todo territÃ³rio nacional</b>",
+          "title": "<b>Todo território nacional</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -404,7 +404,7 @@
         },
         {
           "type": "text",
-          "title": "InformaÃ§Ãµes gerais sobre as linhas de crÃ©dito oferecidas pelo Bradesco e solicitaÃ§Ã£o de liberaÃ§Ã£o do Limite de CrÃ©dito Pessoal disponÃ­vel.",
+          "title": "Informações gerais sobre as linhas de crédito oferecidas pelo Bradesco e solicitação de liberação do Limite de Crédito Pessoal disponível.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "12"
@@ -414,14 +414,14 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "segunda a sexta-feira, das 8h Ã s 20h, e aos sÃ¡bados, das 9h Ã s 15h.",
+          "title": "segunda a sexta-feira, das 8h � s 20h, e aos sábados, das 9h � s 15h.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "12"
@@ -433,28 +433,28 @@
     },
     {
       "type": "expand",
-      "title": "CartÃµes Bradesco Alelo",
+      "title": "Cartões Bradesco Alelo",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "CartÃµes Bradesco Alelo",
+        "title": "Cartões Bradesco Alelo",
         "color": "#297EF5",
         "font": "NewJuneBook.otf",
         "size": "26"
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "  Todo territÃ³rio nacional",
+          "title": "  Todo território nacional",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -485,7 +485,7 @@
         },
         {
           "type": "text",
-          "title": "Oferecer ao Cliente a melhor e mais eficiente SoluÃ§Ã£o em meios de pagamento do mercado. Alelo simplifica a gestÃ£o da sua empresa e leva qualidade de vida para seus colaboradores.",
+          "title": "Oferecer ao Cliente a melhor e mais eficiente Solução em meios de pagamento do mercado. Alelo simplifica a gestão da sua empresa e leva qualidade de vida para seus colaboradores.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "12"
@@ -495,7 +495,7 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -503,7 +503,7 @@
 
         {
           "type": "text",
-          "title": "De segunda a sexta-feira, das 9h Ã s 19h",
+          "title": "De segunda a sexta-feira, das 9h � s 19h",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "12"
@@ -515,14 +515,14 @@
 
         {
           "type": "text",
-          "title": "<b>Central de ImplantaÃ§Ã£o e Suporte a Pedidos</b>",
+          "title": "<b>Central de Implantação e Suporte a Pedidos</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": " Capitais e regiÃµes metropolitanas:",
+          "title": " Capitais e regiões metropolitanas:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -535,7 +535,7 @@
         },
         {
           "type": "text",
-          "title": " Demais RegiÃµes:",
+          "title": " Demais Regiões:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -552,14 +552,14 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "De segunda a sexta-feira, das 8h Ã s 19h",
+          "title": "De segunda a sexta-feira, das 8h � s 19h",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "12"
@@ -576,7 +576,7 @@
         },
         {
           "type": "text",
-          "title": " Todo territÃ³rio nacional:",
+          "title": " Todo território nacional:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -592,14 +592,14 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "De segunda a sexta-feira, das 8h Ã s 19h",
+          "title": "De segunda a sexta-feira, das 8h � s 19h",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "12"
@@ -609,7 +609,7 @@
         },
         {
           "type": "text",
-          "title": "<b>Atendimento a Empresas - PÃ³s Venda Para Clientes Alelo</b>",
+          "title": "<b>Atendimento a Empresas - Pós Venda Para Clientes Alelo</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -629,7 +629,7 @@
         },
         {
           "type": "text",
-          "title": " Demais RegiÃµes:",
+          "title": " Demais Regiões:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -662,7 +662,7 @@
       },
         {
           "type": "text",
-          "title": "<b>Capitais e RegiÃµes Metropolitanas</b>",
+          "title": "<b>Capitais e Regiões Metropolitanas</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -695,7 +695,7 @@
         },
         {
           "type": "text",
-          "title": "Em dias Ãºteis, 8h Ã s 20h - HorÃ¡rio de BrasÃ­lia",
+          "title": "Em dias úteis, 8h � s 20h - Horário de Brasília",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -721,14 +721,14 @@
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>Capitais e RegiÃµes Metropolitanas:</b>",
+          "title": "<b>Capitais e Regiões Metropolitanas:</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -744,7 +744,7 @@
         },
         {
           "type": "text",
-          "title": "<b>Demais RegiÃµes:</b>",
+          "title": "<b>Demais Regiões:</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -761,7 +761,7 @@
         },
         {
           "type": "text",
-          "title": "<b>LigaÃ§Ãµes do Exterior:</b>",
+          "title": "<b>Ligações do Exterior:</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -775,7 +775,7 @@
         },
         {
           "type": "text",
-          "title": "Obs.: NÃ£o aceita ligaÃ§Ãµes a cobrar.",
+          "title": "Obs.: Não aceita ligações a cobrar.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -792,7 +792,7 @@
         },
         {
           "type": "text",
-          "title": "Suporte Ã  internet para clientes Bradesco Pessoa FÃ­sica.",
+          "title": "Suporte �  internet para clientes Bradesco Pessoa Física.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -802,14 +802,14 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "De segunda a sexta-feira, das 6h30 Ã s 0h, sÃ¡bados, domingos e feriados das 08h00 Ã s 22h00.",
+          "title": "De segunda a sexta-feira, das 6h30 � s 0h, sábados, domingos e feriados das 08h00 � s 22h00.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -821,28 +821,28 @@
     },
     {
       "type": "expand",
-      "title": "Central de Relacionamento Apoio Ã  Empresa (Bradesco Net Empresa)",
+      "title": "Central de Relacionamento Apoio �  Empresa (Bradesco Net Empresa)",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "Central de Relacionamento Apoio Ã  Empresa (Bradesco Net Empresa)",
+        "title": "Central de Relacionamento Apoio �  Empresa (Bradesco Net Empresa)",
         "color": "#297EF5",
         "font": "NewJuneBook.otf",
         "size": "26"
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>Capitais e RegiÃµes Metropolitanas:</b>",
+          "title": "<b>Capitais e Regiões Metropolitanas:</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -858,7 +858,7 @@
         },
         {
           "type": "text",
-          "title": "<b>Demais RegiÃµes:</b>",
+          "title": "<b>Demais Regiões:</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -914,7 +914,7 @@
         },
         {
           "type": "text",
-          "title": "Suporte Ã  internet para clientes Bradesco Pessoa JurÃ­dica.",
+          "title": "Suporte �  internet para clientes Bradesco Pessoa Jurídica.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -924,14 +924,14 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "De segunda a sexta-feira, das 7h Ã s 22h. Aos sÃ¡bados, domingos e feriados, das 7h Ã s 18h, exceto feriados nacionais.",
+          "title": "De segunda a sexta-feira, das 7h � s 22h. Aos sábados, domingos e feriados, das 7h � s 18h, exceto feriados nacionais.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -943,28 +943,28 @@
     },
     {
       "type": "expand",
-      "title": "Central de ServiÃ§os e Apoio aos Portadores de Def. Auditiva",
+      "title": "Central de Serviços e Apoio aos Portadores de Def. Auditiva",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "Central de serviÃ§os e apoio aos portadores de deficiÃªncia auditiva",
+        "title": "Central de serviços e apoio aos portadores de deficiência auditiva",
         "color": "#297EF5",
         "font": "NewJuneBook.otf",
         "size": "26"
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "Capitais e RegiÃµes Metropolitanas:",
+          "title": "Capitais e Regiões Metropolitanas:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1004,7 +1004,7 @@
         },
         {
           "type": "text",
-          "title": "InformaÃ§Ãµes e dÃºvidas em geral sobre os produtos e serviÃ§os do Bradesco.",
+          "title": "Informações e dúvidas em geral sobre os produtos e serviços do Bradesco.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1014,7 +1014,7 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1036,21 +1036,21 @@
     },
     {
       "type": "expand",
-      "title": "CartÃµes de CrÃ©dito Bradesco (Pessoa FÃ­sica e JurÃ­dica)",
+      "title": "Cartões de Crédito Bradesco (Pessoa Física e Jurídica)",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "CartÃµes de CrÃ©dito Bradesco (Pessoa FÃ­sica e JurÃ­dica)",
+        "title": "Cartões de Crédito Bradesco (Pessoa Física e Jurídica)",
         "color": "#297EF5",
         "font": "NewJuneBook.otf",
         "size": "26"
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1064,7 +1064,7 @@
         },
         {
           "type": "text",
-          "title": "<b>Capitais e RegiÃµes Metropolitanas:</b>",
+          "title": "<b>Capitais e Regiões Metropolitanas:</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1104,7 +1104,7 @@
         },
         {
           "type": "text",
-          "title": "SÃ£o Paulo e Grande SÃ£o Paulo:",
+          "title": "São Paulo e Grande São Paulo:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1146,7 +1146,7 @@
         },
         {
           "type": "text",
-          "title": "SÃ£o Paulo e Grande SÃ£o Paulo:",
+          "title": "São Paulo e Grande São Paulo:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1164,7 +1164,7 @@
         },
         {
           "type": "text",
-          "title": "Demais regiÃµes:",
+          "title": "Demais regiões:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1181,7 +1181,7 @@
         },
         {
           "type": "text",
-          "title": "ComercializaÃ§Ã£o:",
+          "title": "Comercialização:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1198,21 +1198,21 @@
         },
         {
           "type": "text",
-          "title": "<b>CobranÃ§a/RenegociaÃ§Ã£o de DÃ­vida</b>",
+          "title": "<b>Cobrança/Renegociação de Dívida</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "DÃ©bito em conta corrente:",
+          "title": "Débito em conta corrente:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "Todo territÃ³rio nacional:",
+          "title": "Todo território nacional:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1227,7 +1227,7 @@
         },
         {
           "type": "text",
-          "title": "Aceita ligaÃ§Ãµes a cobrar, exceto de celular:",
+          "title": "Aceita ligações a cobrar, exceto de celular:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1237,14 +1237,14 @@
         },
         {
           "type": "text",
-          "title": "DÃ©bito por fatura:",
+          "title": "Débito por fatura:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "Capitais e regiÃµes metropolitanas:",
+          "title": "Capitais e regiões metropolitanas:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1260,7 +1260,7 @@
         },
         {
           "type": "text",
-          "title": "Demais regiÃµes:",
+          "title": "Demais regiões:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1284,7 +1284,7 @@
         },
         {
           "type": "text",
-          "title": "PrestaÃ§Ã£o de serviÃ§os, informaÃ§Ãµes e dÃºvidas em geral sobre o cartÃ£o de crÃ©dito Bradesco.",
+          "title": "Prestação de serviços, informações e dúvidas em geral sobre o cartão de crédito Bradesco.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1294,7 +1294,7 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1308,14 +1308,14 @@
         },
         {
           "type": "text",
-          "title": "ComercializaÃ§Ã£o:",
+          "title": "Comercialização:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "De segunda a sexta-feira, das 08h00 Ã s 20h00, e aos sÃ¡bados, das 10h Ã s 16h",
+          "title": "De segunda a sexta-feira, das 08h00 � s 20h00, e aos sábados, das 10h � s 16h",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1325,28 +1325,28 @@
         },
         {
           "type": "text",
-          "title": "CobranÃ§a / RenegociaÃ§Ã£o de dÃ­vida:",
+          "title": "Cobrança / Renegociação de dívida:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "ComercializaÃ§Ã£o:",
+          "title": "Comercialização:",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>DÃ©bito em conta corrente:</b> De segunda a sexta-feira, das 08h Ã s 20h.",
+          "title": "<b>Débito em conta corrente:</b> De segunda a sexta-feira, das 08h � s 20h.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>DÃ©bito por fatura:</b> De segunda a sexta-feira, das 08h Ã s 20h, e aos sÃ¡bados, das 09h Ã s 15h.",
+          "title": "<b>Débito por fatura:</b> De segunda a sexta-feira, das 08h � s 20h, e aos sábados, das 09h � s 15h.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1358,21 +1358,21 @@
     },
     {
       "type": "expand",
-      "title": "CartÃµes de CrÃ©dito American Express (Amex)",
+      "title": "Cartões de Crédito American Express (Amex)",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "CartÃµes de CrÃ©dito American Express (Amex)",
+        "title": "Cartões de Crédito American Express (Amex)",
         "color": "#297EF5",
         "font": "NewJuneBook.otf",
         "size": "26"
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1380,13 +1380,13 @@
         {
           "type": "text",
           "title": "Central de atendimento",
-          "color": "#000000",
+          "color": "#E50934",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "Capitais e regiÃµes metropolitanas",
+          "title": "Capitais e regiões metropolitanas",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1419,7 +1419,7 @@
         },
         {
           "type": "text",
-          "title": "<b>LigaÃ§Ãµes a cobrar do Exterior</b>",
+          "title": "<b>Ligações a cobrar do Exterior</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1437,14 +1437,14 @@
         },
         {
           "type": "text",
-          "title": "<b>ComercializaÃ§Ã£o:</b>",
+          "title": "<b>Comercialização:</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "Por meio da agÃªncia detentora da conta ou pela central de comunicaÃ§Ã£o",
+          "title": "Por meio da agência detentora da conta ou pela central de comunicação",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1468,7 +1468,7 @@
         },
         {
           "type": "text",
-          "title": "PrestaÃ§Ã£o de serviÃ§os, informaÃ§Ãµes e dÃºvidas em geral sobre o cartÃ£o de crÃ©dito Amex.",
+          "title": "Prestação de serviços, informações e dúvidas em geral sobre o cartão de crédito Amex.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1478,7 +1478,7 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1499,14 +1499,14 @@
         },
         {
           "type": "text",
-          "title": "ComercializaÃ§Ã£o:",
+          "title": "Comercialização:",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "Todos os dias, das 08h00 Ã s 22h00.",
+          "title": "Todos os dias, das 08h00 � s 22h00.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1518,28 +1518,28 @@
     },
     {
       "type": "expand",
-      "title": "AntecipaÃ§Ã£o de RecebÃ­veis",
+      "title": "Antecipação de Recebíveis",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "AntecipaÃ§Ã£o de RecebÃ­veis",
+        "title": "Antecipação de Recebíveis",
         "color": "#297EF5",
         "font": "NewJuneBook.otf",
         "size": "26"
       },
         {
           "type": "text",
-          "title": "Meios de ComunicaÃ§Ã£o",
+          "title": "Meios de Comunicação",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>SÃ£o Paulo e Grande SÃ£o Paulo</b>",
+          "title": "<b>São Paulo e Grande São Paulo</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1557,7 +1557,7 @@
         },
         {
           "type": "text",
-          "title": "<b>Demais regiÃµes</b>",
+          "title": "<b>Demais regiões</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1591,14 +1591,14 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "De segunda a sexta-feira, das 09h00 Ã s 17h00",
+          "title": "De segunda a sexta-feira, das 09h00 � s 17h00",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1624,14 +1624,14 @@
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "SÃ£o Paulo",
+          "title": "São Paulo",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1674,7 +1674,7 @@
         },
         {
           "type": "text",
-          "title": "Esclarecimento de dÃºvidas, informaÃ§Ãµes e serviÃ§os referentes ao Segmento Private.",
+          "title": "Esclarecimento de dúvidas, informações e serviços referentes ao Segmento Private.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1684,14 +1684,14 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "Dias Ãºteis, das 08h30 Ã s 18h00",
+          "title": "Dias úteis, das 08h30 � s 18h00",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1717,14 +1717,14 @@
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "Todo territÃ³rio nacional",
+          "title": "Todo território nacional",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1749,7 +1749,7 @@
         },
         {
           "type": "text",
-          "title": "Esclarecimento de dÃºvidas, informaÃ§Ãµes e serviÃ§os aos clientes Bradesco Prime Digital.",
+          "title": "Esclarecimento de dúvidas, informações e serviços aos clientes Bradesco Prime Digital.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "12"
@@ -1759,14 +1759,14 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "Todos os dias, das 08h00 Ã s 20h00.",
+          "title": "Todos os dias, das 08h00 � s 20h00.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1792,14 +1792,14 @@
       },
         {
           "type": "text",
-          "title": "Meios de ComunicaÃ§Ã£o",
+          "title": "Meios de Comunicação",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>Todo territÃ³rio nacional</b>",
+          "title": "<b>Todo território nacional</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1824,7 +1824,7 @@
         },
         {
           "type": "text",
-          "title": "Esclarecimento de dÃºvidas, informaÃ§Ãµes e serviÃ§os aos clientes Bradesco Digital.",
+          "title": "Esclarecimento de dúvidas, informações e serviços aos clientes Bradesco Digital.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1834,31 +1834,14 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio Pessoa FÃ­sica</b>",
+          "title": "<b>Horário Pessoa Física</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "Todos os dias, das 08h30 Ã s 20h00.",
-          "color": "#313131",
-          "font": "NewJuneBook.otf",
-          "size": "16"
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "text",
-          "title": "<b>HorÃ¡rio Pessoa JurÃ­dica</b>",
-          "color": "#313131",
-          "font": "NewJuneBook.otf",
-          "size": "16"
-        },
-        {
-          "type": "text",
-          "title": "De segunda a sexta-feira, das 08h00 Ã s 19h00.",
+          "title": "Todos os dias, das 08h30 � s 20h00.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1868,14 +1851,31 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio Cliente Investidor</b>",
+          "title": "<b>Horário Pessoa Jurídica</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "De segunda a sexta-feira, das 08h00 Ã s 18h00.",
+          "title": "De segunda a sexta-feira, das 08h00 � s 19h00.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário Cliente Investidor</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "De segunda a sexta-feira, das 08h00 � s 18h00.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1887,28 +1887,28 @@
     },
     {
       "type": "expand",
-      "title": "ConsÃ³rcios",
+      "title": "Consórcios",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "ConsÃ³rcios",
+        "title": "Consórcios",
         "color": "#297EF5",
         "font": "NewJuneBook.otf",
         "size": "26"
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "Capitais e regiÃµes metropolitanas",
+          "title": "Capitais e regiões metropolitanas",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1948,7 +1948,7 @@
         },
         {
           "type": "text",
-          "title": "Esclarecimento de dÃºvidas, informaÃ§Ãµes e serviÃ§os aos clientes da Bradesco ConsÃ³rcios.",
+          "title": "Esclarecimento de dúvidas, informações e serviços aos clientes da Bradesco Consórcios.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1958,7 +1958,7 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -1977,14 +1977,14 @@
     },
     {
       "type": "expand",
-      "title": "CapitalizaÃ§Ã£o",
+      "title": "Capitalização",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "CapitalizaÃ§Ã£o",
+        "title": "Capitalização",
         "color": "#297EF5",
         "font": "NewJuneBook.otf",
         "size": "26"
@@ -1998,7 +1998,7 @@
         },
         {
           "type": "text",
-          "title": "Acesse o Fale Conosco para registrar reclamaÃ§Ãµes, obter informaÃ§Ãµes e enviar sugestÃµes ou elogios.",
+          "title": "Acesse o Fale Conosco para registrar reclamações, obter informações e enviar sugestões ou elogios.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2023,14 +2023,14 @@
         },
         {
           "type": "text",
-          "title": "2Âª via de tÃ­tulos, consulta de data de dÃ©bito, informaÃ§Ãµes sobre a situaÃ§Ã£o de TÃ­tulos.",
+          "title": "2ª via de títulos, consulta de data de débito, informações sobre a situação de Títulos.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>Capitais e regiÃµes metropolitanas</b>",
+          "title": "<b>Capitais e regiões metropolitanas</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2060,7 +2060,7 @@
         },
         {
           "type": "text",
-          "title": "SAC - ServiÃ§o de Apoio ao Cliente Bradesco CapitalizaÃ§Ã£o Cancelamentos, reclamaÃ§Ãµes e informaÃ§Ãµes",
+          "title": "SAC - Serviço de Apoio ao Cliente Bradesco Capitalização Cancelamentos, reclamações e informações",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2074,7 +2074,7 @@
         },
         {
           "type": "text",
-          "title": "<b>Atendimento exclusivo Ã  pessoas com deficiÃªncia auditiva ou de fala</b>",
+          "title": "<b>Atendimento exclusivo �  pessoas com deficiência auditiva ou de fala</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2117,14 +2117,14 @@
     },
     {
       "type": "expand",
-      "title": "Vida e PrevidÃªncia",
+      "title": "Vida e Previdência",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "Vida e PrevidÃªncia",
+        "title": "Vida e Previdência",
         "color": "#297ef5",
         "font": "NewJuneBook.otf",
         "size": "26"
@@ -2138,21 +2138,21 @@
         },
         {
           "type": "text",
-          "title": "InformaÃ§Ã£o e AdesÃ£o",
+          "title": "Informação e Adesão",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "Dias Ãºteis das 07h30 Ã s 19h30",
+          "title": "Dias úteis das 07h30 � s 19h30",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2162,14 +2162,14 @@
         },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>Capitais e RegiÃµes Metropolitanas</b>",
+          "title": "<b>Capitais e Regiões Metropolitanas</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2232,14 +2232,14 @@
         },
         {
           "type": "text",
-          "title": "<b>Cidades com telefones especÃ­ficos</b>",
+          "title": "<b>Cidades com telefones específicos</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>AnÃ¡polis</b>",
+          "title": "<b>Anápolis</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2291,7 +2291,7 @@
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2362,7 +2362,7 @@
         },
         {
           "type": "text",
-          "title": "<b>AutomÃ³vel/Bilhete Residencial</b>",
+          "title": "<b>Automóvel/Bilhete Residencial</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2379,7 +2379,7 @@
         },
         {
           "type": "text",
-          "title": "<b>Vida Segura / Vida MÃ¡xima Mulher</b>",
+          "title": "<b>Vida Segura / Vida Máxima Mulher</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2396,7 +2396,7 @@
         },
         {
           "type": "text",
-          "title": "<b>AlÃ´ Bradesco Seguros</b>",
+          "title": "<b>Alô Bradesco Seguros</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2420,7 +2420,7 @@
         },
         {
           "type": "text",
-          "title": "Esclarecimento de dÃºvidas, informaÃ§Ãµes e serviÃ§os aos seguros disponibilizados pela Bradesco Seguros.",
+          "title": "Esclarecimento de dúvidas, informações e serviços aos seguros disponibilizados pela Bradesco Seguros.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2430,14 +2430,14 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "De segunda a sexta-feira, das 08h00 Ã s 20h00, e, aos sÃ¡bados, das 08h00 Ã s 14h00. <br>Para AssistÃªncia Dia e Noite (Bilhete Residencial), o atendimento ocorre todos os dias, 24h.",
+          "title": "De segunda a sexta-feira, das 08h00 � s 20h00, e, aos sábados, das 08h00 � s 14h00. <br>Para Assistência Dia e Noite (Bilhete Residencial), o atendimento ocorre todos os dias, 24h.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2449,28 +2449,28 @@
     },
     {
       "type": "expand",
-      "title": "SaÃºde Bradesco",
+      "title": "Saúde Bradesco",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "SaÃºde Bradesco",
+        "title": "Saúde Bradesco",
         "color": "#297ef5",
         "font": "NewJuneBook.otf",
         "size": "26"
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>Todo territÃ³rio nacional</b>",
+          "title": "<b>Todo território nacional</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2523,7 +2523,7 @@
         },
         {
           "type": "text",
-          "title": "Esclarecimento de dÃºvidas, informaÃ§Ãµes sobre tratamento e solicitaÃ§Ã£o e solicitaÃ§Ã£o de plano de saÃºde.",
+          "title": "Esclarecimento de dúvidas, informações sobre tratamento e solicitação e solicitação de plano de saúde.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2533,14 +2533,14 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "Dias Ãºteis das 08h00 Ã s 18h00",
+          "title": "Dias úteis das 08h00 � s 18h00",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2552,28 +2552,28 @@
     },
     {
       "type": "expand",
-      "title": "AssistÃªncia Funeral",
+      "title": "Assistência Funeral",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "AssistÃªncia Funeral",
+        "title": "Assistência Funeral",
         "color": "#297ef5",
         "font": "NewJuneBook.otf",
         "size": "26"
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>Todo territÃ³rio nacional</b>",
+          "title": "<b>Todo território nacional</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2597,7 +2597,7 @@
         },
         {
           "type": "text",
-          "title": "Esclarecimento de dÃºvidas, informaÃ§Ãµes e serviÃ§os referentes Ã  assistÃªncia funeral.",
+          "title": "Esclarecimento de dúvidas, informações e serviços referentes �  assistência funeral.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2607,7 +2607,7 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2640,14 +2640,14 @@
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>Todo territÃ³rio nacional</b>",
+          "title": "<b>Todo território nacional</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2664,14 +2664,14 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "De segunda a sexta-feira, das 09h00 Ã s 16h00, horÃ¡rio de BrasÃ­lia.",
+          "title": "De segunda a sexta-feira, das 09h00 � s 16h00, horário de Brasília.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2697,14 +2697,14 @@
       },
         {
           "type": "text",
-          "title": "<b>Meios de ComunicaÃ§Ã£o</b>",
+          "title": "<b>Meios de Comunicação</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
         {
           "type": "text",
-          "title": "<b>Todo territÃ³rio nacional</b>",
+          "title": "<b>Todo território nacional</b>",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -2724,7 +2724,7 @@
         },
         {
           "type": "text",
-          "title": "<b>HorÃ¡rio</b>",
+          "title": "<b>Horário</b>",
           "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
