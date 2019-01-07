@@ -479,7 +479,7 @@
         {
           "type": "text",
           "title": "<b>Finalidade da Central de Venda</b>",
-          "color": "#000000",
+          "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
@@ -496,7 +496,7 @@
         {
           "type": "text",
           "title": "<b>Horário</b>",
-          "color": "#000000",
+          "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
@@ -516,7 +516,7 @@
         {
           "type": "text",
           "title": "<b>Central de Implantação e Suporte a Pedidos</b>",
-          "color": "#000000",
+          "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
@@ -553,7 +553,7 @@
         {
           "type": "text",
           "title": "<b>Horário</b>",
-          "color": "#000000",
+          "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
@@ -570,7 +570,7 @@
         {
           "type": "text",
           "title": "<b>Atendimento a Empresas Especializado em  Vale-Transporte</b>",
-          "color": "#000000",
+          "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
@@ -610,7 +610,7 @@
         {
           "type": "text",
           "title": "<b>Atendimento a Empresas - Pós Venda Para Clientes Alelo</b>",
-          "color": "#000000",
+          "color": "#313131",
           "font": "NewJuneBook.otf",
           "size": "16"
         },
