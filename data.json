@@ -407,7 +407,7 @@
           "title": "Informações gerais sobre as linhas de crédito oferecidas pelo Bradesco e solicitação de liberação do Limite de Crédito Pessoal disponível.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
-          "size": "12"
+          "size": "16"
         },
         {
           "type": "divider"
@@ -421,10 +421,10 @@
         },
         {
           "type": "text",
-          "title": "segunda a sexta-feira, das 8h às 20h, e aos sábados, das 9h às 15h.",
+          "title": "Segunda a sexta-feira, das 8h às 20h, e aos sábados, das 9h às 15h.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
-          "size": "12"
+          "size": "16"
         }
       ]
     },
@@ -485,10 +485,10 @@
         },
         {
           "type": "text",
-          "title": "Oferecer ao Cliente a melhor e mais eficiente Solução em meios de pagamento do mercado. Alelo simplifica a gestão da sua empresa e leva qualidade de vida para seus colaboradores.",
+          "title": "Oferecer ao cliente a melhor e mais eficiente solução em meios de pagamento do mercado. Alelo simplifica a gestão da sua empresa e leva qualidade de vida para seus colaboradores.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
-          "size": "12"
+          "size": "16"
         },
         {
           "type": "divider"
@@ -506,7 +506,7 @@
           "title": "De segunda a sexta-feira, das 9h às 19h",
           "color": "#000000",
           "font": "NewJuneBook.otf",
-          "size": "12"
+          "size": "16"
         },
 
         {
@@ -562,7 +562,7 @@
           "title": "De segunda a sexta-feira, das 8h às 19h",
           "color": "#000000",
           "font": "NewJuneBook.otf",
-          "size": "12"
+          "size": "16"
         },
         {
           "type": "divider"
@@ -602,7 +602,7 @@
           "title": "De segunda a sexta-feira, das 8h às 19h",
           "color": "#000000",
           "font": "NewJuneBook.otf",
-          "size": "12"
+          "size": "16"
         },
         {
           "type": "divider"
@@ -714,7 +714,7 @@
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "Central de Apoio ao internet Banking e Bradesco Celular",
+        "title": "Central de Apoio ao Internet Banking e Bradesco Celular",
         "color": "#297EF5",
         "font": "NewJuneBook.otf",
         "size": "26"
@@ -1752,7 +1752,7 @@
           "title": "Esclarecimento de dúvidas, informações e serviços aos clientes Bradesco Prime Digital.",
           "color": "#313131",
           "font": "NewJuneBook.otf",
-          "size": "12"
+          "size": "16"
         },
         {
           "type": "divider"
