@@ -792,7 +792,7 @@
         },
         {
           "type": "text",
-          "title": "Suporte �  internet para clientes Bradesco Pessoa Física.",
+          "title": "Suporte à internet para clientes Bradesco Pessoa Física.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
@@ -821,14 +821,14 @@
     },
     {
       "type": "expand",
-      "title": "Central de Relacionamento Apoio �  Empresa (Bradesco Net Empresa)",
+      "title": "Central de Relacionamento Apoio à Empresa (Bradesco Net Empresa)",
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_expand": "scpup_plus",
       "usefulphones": [{
         "type": "text",
-        "title": "Central de Relacionamento Apoio �  Empresa (Bradesco Net Empresa)",
+        "title": "Central de Relacionamento Apoio à Empresa (Bradesco Net Empresa)",
         "color": "#297EF5",
         "font": "NewJuneBook.otf",
         "size": "26"
@@ -914,7 +914,7 @@
         },
         {
           "type": "text",
-          "title": "Suporte �  internet para clientes Bradesco Pessoa Jurídica.",
+          "title": "Suporte à internet para clientes Bradesco Pessoa Jurídica.",
           "color": "#000000",
           "font": "NewJuneBook.otf",
           "size": "16"
