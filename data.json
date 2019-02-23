@@ -1,7 +1,4 @@
-{
-  "version": 1,
-  "configs": {
-    "font": "NewJuneBook.otf",
+{otf",
     "text_color": "#000000",
     "size": "16",
     "background": "#FFFFFF",
