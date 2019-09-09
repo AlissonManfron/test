@@ -1,68 +1,24 @@
-[
-  {
-    "randomize": false,
-    "firstBannerFixed": true,
-    "customized": true,
-    "banners": [
+{
+	"randomize": false,
+	"firstBannerFixed": true,
+	"customized": true,
+	"banners": [
+	
+		{
+			"animateTime": 0,
+			"data": "",
+			"type": 0,
+			"title": "Cartao Alelo Multibeneficios",
+			"imagesUrls": {
+				"568h": "Banners/568h/507x370_banner_bia.jpg",
+				"667h": "Banners/568h/507x370_banner_bia.jpg",
+				"736h": "Banners/736h/1280x768_banner_bia.jpg",
+				"640": "Banners/640/640x384_banner_bia.jpg",
+				"1242": "Banners/1242/1242X732_banner_bia.jpg",
+				"1280": "Banners/1280/1280x768_banner_bia.jpg"
+			}
+		}		
 
-      {
-        "animateTime": 0,
-        "data": "",
-        "type": 0,
-        "title": "Cartao Alelo Multibeneficios",
-        "imagesUrls": {
-          "568h": "Banners/568h/507x370_banner_bia.jpg",
-          "667h": "Banners/667h/676x370_banner_bia.jpg",
-          "736h": "Banners/736h/1280x768_banner_bia.jpg",
-          "640": "Banners/640/640x384_banner_bia.jpg",
-          "1242": "Banners/1242/1242X732_banner_bia.jpg",
-          "1280": "Banners/1280/1280x768_banner_bia.jpg"
-        }
-      }		
-    ]
-  },
-  {
-    "randomize": false,
-    "firstBannerFixed": true,
-    "customized": true,
-    "banners": [
-
-      {
-        "animateTime": 0,
-        "data": "",
-        "type": 0,
-        "title": "Cartao Alelo Multibeneficios",
-        "imagesUrls": {
-          "568h": "Banners/568h/507x370_banner_bia.jpg",
-          "667h": "Banners/667h/676x370_banner_bia.jpg",
-          "736h": "Banners/736h/1280x768_banner_bia.jpg",
-          "640": "Banners/640/640x384_banner_bia.jpg",
-          "1242": "Banners/1242/1242X732_banner_bia.jpg",
-          "1280": "Banners/1280/1280x768_banner_bia.jpg"
-        }
-      }		
-    ]
-  },
-  {
-    "randomize": false,
-    "firstBannerFixed": true,
-    "customized": true,
-    "banners": [
-
-      {
-        "animateTime": 0,
-        "data": "",
-        "type": 0,
-        "title": "Cartao Alelo Multibeneficios",
-        "imagesUrls": {
-          "568h": "Banners/568h/507x370_banner_bia.jpg",
-          "667h": "Banners/667h/676x370_banner_bia.jpg",
-          "736h": "Banners/736h/1280x768_banner_bia.jpg",
-          "640": "Banners/640/640x384_banner_bia.jpg",
-          "1242": "Banners/1242/1242X732_banner_bia.jpg",
-          "1280": "Banners/1280/1280x768_banner_bia.jpg"
-        }
-      }		
-    ]
-  }
-]
+		
+	]
+}
