@@ -1,24 +1,2877 @@
 {
-	"randomize": false,
-	"firstBannerFixed": true,
-	"customized": true,
-	"banners": [
-	
-		{
-			"animateTime": 0,
-			"data": "",
-			"type": 0,
-			"title": "Cartao Alelo Multibeneficios",
-			"imagesUrls": {
-				"568h": "Banners/568h/507x370_banner_bia.jpg",
-				"667h": "Banners/568h/507x370_banner_bia.jpg",
-				"736h": "Banners/736h/1280x768_banner_bia.jpg",
-				"640": "Banners/640/640x384_banner_bia.jpg",
-				"1242": "Banners/1242/1242X732_banner_bia.jpg",
-				"1280": "Banners/1280/1280x768_banner_bia.jpg"
-			}
-		}		
-
-		
-	]
+  "version": 1,
+  "configs": {
+    "font": "NewJuneBook.otf",
+    "text_color": "#000000",
+    "size": "16",
+    "background": "#FFFFFF",
+    "phone_icon": "scpup_ic_phone_img",
+    "phone_text_color": "#313131",
+    "phone_number_color": "#FFFFFF",
+    "background_start": "#779099",
+    "background_end": "#647e84",
+    "link_color": "#D71D32",
+    "icon_collapse_open": "scpup_plus",
+    "icon_collapse_close": "",
+    "icon_expand": "scpup_arrow",
+    "icon_action_description": "scpup_arrow",
+    "divider_color": "#cbcbcb"
+  },
+  "usefulphones": [
+    {
+      "type": "text",
+      "title": "<b>CENTRAL DE RELACIONAMENTO</b>",
+      "color": "#D71D32",
+      "font": "NewJuneBook.otf",
+      "size": "18"
+    },
+    {
+      "type": "text",
+      "title": "Cliente Pessoa Jurídica",
+      "color": "#D71D32",
+      "font": "NewJuneBook.otf",
+      "size": "16"
+    },
+    {
+      "type": "text",
+      "title": "Para transações, consultas e contratações:",
+      "color": "#313131",
+      "font": "NewJuneBook.otf",
+      "size": "16"
+    },
+    {
+      "type": "phones",
+      "phones": [
+        {
+          "name": "<b>Capitais e regiões metropolitanas (Opção 5)</b>",
+          "size": "18",
+          "number": "3003 1000"
+        },
+        {
+          "name": "<b>Demais localidades</b>",
+          "size": "14",
+          "number": "0800 202 1000"
+        },
+        {
+          "name": "<b>Acesso do exterior</b>",
+          "number": "3003 1000",
+          "size": "12",
+          "prefix": "+55 11 "
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "text",
+      "title": "SAC",
+      "color": "#D71D32",
+      "font": "NewJuneBook.otf",
+      "size": "18"
+    },
+    {
+      "type": "text",
+      "title": "Serviço de Atendimento ao Consumidor",
+      "color": "#D71D32",
+      "font": "NewJuneBook.otf",
+      "size": "18"
+    },
+    {
+      "type": "link_button",
+      "title": "Sugestões, elogios, consultas ou reclamações. Envie sua manifestação.",
+      "color": "#313131",
+      "font": "NewJuneBook.otf",
+      "size": "14",
+      "button": "Enviar",
+      "link": "https://banco.bradesco/html/pessoajuridica/atendimento/fale-conosco/ouvidoria/index.shtm?param=sac&origin=app"
+    },
+    {
+      "type": "text",
+      "title": "Atendimento 24 horas, todos os dias da semana",
+      "color": "#313131",
+      "font": "NewJuneBook.otf",
+      "size": "14"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "text",
+      "title": "OUVIDORIA",
+      "color": "#D71D32",
+      "font": "NewJuneBook.otf",
+      "size": "18"
+    },
+    {
+      "type": "text",
+      "title": "Se sua reclamação foi tratada, mas a solução apresentada não foi satisfatória:",
+      "color": "#313131",
+      "font": "NewJuneBook.otf",
+      "size": "14"
+    },
+    {
+      "type": "link_button",
+      "title": "Toque no botão para ser revisada pela Ouvidoria",
+      "color": "#313131",
+      "font": "NewJuneBook.otf",
+      "size": "14",
+      "button": "Verificar",
+      "link": "https://banco.bradesco/html/pessoajuridica/atendimento/fale-conosco/ouvidoria/index.shtm?param=ouvidoria&origin=app"
+    },
+    {
+      "type": "text",
+      "title": "De segunda a sexta, das 8h às 18h, exceto feriados.",
+      "color": "#313131",
+      "font": "NewJuneBook.otf",
+      "size": "14"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "text",
+      "title": "<b>MAIS TELEFONES</b>",
+      "color": "#D71D32",
+      "font": "NewJuneBook.otf",
+      "size": "18"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Alô Bradesco / Ouvidoria",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Alô Bradesco",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>SAC - Serviço de Atendimento ao Consumidor<br>Cancelamentos, Reclamações e Informações</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 704 8383",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Deficiente Auditivo ou de Fala</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 722 0099",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "Atendimento 24 horas, 7 dias por semana",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Ouvidoria</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 727 9933",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "Atendimento de segunda a sexta-feira das 8h às 18h, exceto feriados",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Fone Fácil Bradesco",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Fone Fácil Bradesco",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "(Realizações de Transações Financeiras)",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "18"
+        },
+        {
+          "type": "text",
+          "title": "Por meio deste canal, você consulta a qualquer momento, o saldo de suas contas e realiza transações bancárias em nosso Atendimento Personalizado, <b>dia e noite, 7 dias por semana:</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Capitais e Regiões Metropolitanas:</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "4002 0022"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Demais Regiões:</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 570 0022",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Acesso do Exterior:</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "4002 0022",
+              "size": "12",
+              "prefix": "(55) 11 "
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "Para utilizar esse serviço, é necessário que você possua a senha de quatro dígitos, que pode ser cadastrada em sua Agência e a Chave de Segurança Bradesco (Eletrônica ou Cartão).",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Central de Crédito",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Central de Crédito",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Todo território nacional</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 273 3486",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Informações gerais sobre as linhas de crédito oferecidas pelo Bradesco e solicitação de liberação do Limite de Crédito Pessoal disponível.",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "12"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Segunda a sexta-feira, das 8h às 20h, e aos sábados, das 9h às 15h.",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "12"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Cartões Bradesco Alelo",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Cartões Bradesco Alelo",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "  Todo território nacional",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "4003 3225"
+            }
+          ]
+        },
+        {
+          "type": "link_description",
+          "title": "<b>Solicite uma proposta agora!</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "12",
+          "link": "http://m.alelopme.com.br/bradesco/?utm_source=BradescoNetApp&&utm_content=BradescoNetApp_Alimentacao&utm_campaign=BradescoNetApp"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade da Central de Venda</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Oferecer ao Cliente a melhor e mais eficiente Solução em meios de pagamento do mercado. Alelo simplifica a gestão da sua empresa e leva qualidade de vida para seus colaboradores.",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "12"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "De segunda a sexta-feira, das 9h às 19h",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "12"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Central de Implantação e Suporte a Pedidos</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": " Capitais e regiões metropolitanas:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "3003 8895"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": " Demais Regiões:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 333 8895",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "De segunda a sexta-feira, das 8h às 19h",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "12"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Atendimento a Empresas Especializado em  Vale-Transporte</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": " Todo território nacional:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "4003 3553"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "De segunda a sexta-feira, das 8h às 19h",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "12"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Atendimento a Empresas - Pós Venda Para Clientes Alelo</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": " SP e grande SP:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "4003 7779"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": " Demais Regiões:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 702 4545",
+              "size": "14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Investimentos",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Investimentos",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Capitais e Regiões Metropolitanas</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "4020 1414"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Demais localidades</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 704 1414",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "Em dias úteis, 8h às 20h - Horário de Brasília",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Central de Apoio ao Internet Banking e Bradesco Celular",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Central de Apoio ao Internet Banking e Bradesco Celular",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Capitais e Regiões Metropolitanas:</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "3003 0237"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Demais Regiões:</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 701 0237",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Ligações do Exterior:</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "3003 0237",
+              "prefix": "(55) 11"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "Obs.: Não aceita ligações a cobrar.",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Suporte à internet para clientes Bradesco Pessoa Física.",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "De segunda a sexta-feira, das 6h30 às 0h, sábados, domingos e feriados das 08h00 às 22h00.",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Central de Relacionamento Apoio à Empresa (Bradesco Net Empresa)",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Central de Relacionamento Apoio à Empresa (Bradesco Net Empresa)",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Capitais e Regiões Metropolitanas:</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "3003 1000"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Demais Regiões:</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 202 1000",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Acesso do exterior:</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "3003 1000",
+              "size": "12",
+              "prefix": "(55) 11 "
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "email",
+          "title": "<b>E-mail</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16",
+          "link": "apoioaempresa@bradesco.com.br",
+          "link_color": "#E50934",
+          "link_font": "NewJuneBook.otf",
+          "link_size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Suporte à internet para clientes Bradesco Pessoa Jurídica.",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "De segunda a sexta-feira, das 7h às 22h. Aos sábados, domingos e feriados, das 7h às 18h, exceto feriados nacionais.",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Central de Serviços e Apoio aos Portadores de Def. Auditiva",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Central de serviços e apoio aos portadores de deficiência auditiva",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Capitais e Regiões Metropolitanas:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "4004 0099"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Demais Localidades:</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 722 0099",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Informações e dúvidas em geral sobre os produtos e serviços do Bradesco.",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Todos os dias da semana, inclusive feriados.",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Cartões de Crédito Bradesco (Pessoa Física e Jurídica)",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Cartões de Crédito Bradesco (Pessoa Física e Jurídica)",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Nacional, Internacional, Gold e Empresarial:",
+          "color": "#E50934",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Capitais e Regiões Metropolitanas:</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "4004 0022"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Demais Localidades:</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 570 0022",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "Prime, Infinite, Platinum e In Visa Veritas:",
+          "color": "#E50934",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "São Paulo e Grande São Paulo:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "3338 2822",
+              "prefix": "(11)",
+              "size": "11"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "Demais Localidades:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 0164 163",
+              "size": "11"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "MasterCard Black:",
+          "color": "#E50934",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "São Paulo e Grande São Paulo:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "3367 9700",
+              "prefix": "(11)",
+              "size": "11"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "Demais regiões:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 704 2000",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "Comercialização:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 701 7575",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Cobrança/Renegociação de Dívida</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Débito em conta corrente:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Todo território nacional:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "3670 5090",
+              "prefix": "(11)",
+              "size": "11"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "Aceita ligações a cobrar, exceto de celular",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "Débito por fatura:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Capitais e regiões metropolitanas:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "4004 5090"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "Demais regiões:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 722 5090",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Prestação de serviços, informações e dúvidas em geral sobre o cartão de crédito Bradesco.",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Todos os dias, 24 horas, exceto as seguintes centrais:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Comercialização:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "De segunda a sexta-feira, das 08h00 às 20h00, e aos sábados, das 10h às 16h",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "Cobrança / Renegociação de dívida:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Comercialização:",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Débito em conta corrente:</b> De segunda a sexta-feira, das 08h às 20h.",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Débito por fatura:</b> De segunda a sexta-feira, das 08h às 20h, e aos sábados, das 09h às 15h.",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Cartões de Crédito American Express (Amex)",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Cartões de Crédito American Express (Amex)",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Central de atendimento",
+          "color": "#E50934",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Capitais e regiões metropolitanas",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "4004 2639"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Demais localidades</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 726 2639",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Ligações a cobrar do Exterior</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "2102 6266",
+              "size": "12",
+              "prefix": "(55) 11 "
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Comercialização:</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Por meio da agência detentora da conta ou pela central de comunicação",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 728 1010",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Prestação de serviços, informações e dúvidas em geral sobre o cartão de crédito Amex.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Central de atendimento:",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Todos os dias, 24 horas.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Comercialização:",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Todos os dias, das 08h00 às 22h00.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Antecipação de Recebíveis",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Antecipação de Recebíveis",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "Meios de Comunicação",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>São Paulo e Grande São Paulo</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "4004 4434",
+              "prefix": "(11)",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Demais regiões</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 722 4434",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Antecipar o recebimento do valor da compra realizada pelo cliente no estabelecimento.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "De segunda a sexta-feira, das 09h00 às 17h00",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Private",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Bradesco Private Bank",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "São Paulo",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "2178 4044",
+              "prefix": "(11)",
+              "size": "12"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "Rio de Janeiro",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "2554 0650",
+              "prefix": "(21)",
+              "size": "12"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Esclarecimento de dúvidas, informações e serviços referentes ao Segmento Private.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Dias úteis, das 08h30 às 18h00",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Bradesco Prime Digital",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Bradesco Prime Digital",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Todo território nacional",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "3366 0088",
+              "prefix": "(11)",
+              "size": "12"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Esclarecimento de dúvidas, informações e serviços aos clientes Bradesco Prime Digital.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "12"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Todos os dias, das 08h00 às 20h00.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Bradesco Digital",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Bradesco Digital",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "Meios de Comunicação",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Todo território nacional</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "3357 0900",
+              "prefix": "(11)",
+              "size": "12"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Esclarecimento de dúvidas, informações e serviços aos clientes Bradesco Digital.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário Pessoa Física</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Todos os dias, das 08h30 às 20h00.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário Pessoa Jurídica</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "De segunda a sexta-feira, das 08h00 às 19h00.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário Cliente Investidor</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "De segunda a sexta-feira, das 08h00 às 18h00.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Consórcios",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Consórcios",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Capitais e regiões metropolitanas",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "4004 4436"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "Demais Localidades",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 722 4436",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Esclarecimento de dúvidas, informações e serviços aos clientes da Bradesco Consórcios.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "De segunda a sexta-feira, das 08h00 as 20h00.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Capitalização",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Capitalização",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Fale Conosco</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Acesse o Fale Conosco no bradesco.com.br para registrar reclamação, obter informação e enviar sugestão ou elogio.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "link_description",
+          "title": "<b>Acesse o Fale Conosco</b>",
+          "color": "#E50934",
+          "font": "NewJuneBook.otf",
+          "size": "12",
+          "link": "http://www.bradesco.com.br"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Central de Relacionamento</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "2ª via de títulos, consulta de data de débito, informações sobre a situação de Títulos.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Capitais e regiões metropolitanas</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "4002 0022"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "<b>Demais localidades</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 570 0022",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "SAC - Serviço de Apoio ao Cliente Bradesco Capitalização Cancelamentos, reclamações e informações",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 721 1155",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "<b>Atendimento exclusivo à pessoas com deficiência auditiva ou de fala</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 722 0099",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "Atendimento 24 horas, 7 dias por semana",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Ouvidoria</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 701 7000",
+              "size": "14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Vida e Previdência",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Vida e Previdência",
+          "color": "#297ef5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Informação e Adesão",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Dias úteis das 07h30 às 19h30",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Capitais e Regiões Metropolitanas</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "4002 0022"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Demais Localidades</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 011 1199",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Fax</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "3684 2151"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16",
+          "link": "previdencia@bradesco.com.br",
+          "link_color": "#e50934",
+          "link_font": "NewJuneBook.otf",
+          "link_size": "18"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Cidades com telefones específicos</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Anápolis</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "3310 5800",
+              "prefix": "(62)",
+              "size": "12"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Blumenau</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "3326 1600",
+              "prefix": "(47)",
+              "size": "12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Seguros",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Seguros",
+          "color": "#297ef5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Acidentes Pessoais:</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 701 2703",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 701 8466",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 701 2780",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Vida:</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 701 2703",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 701 8466",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Automóvel/Bilhete Residencial</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 701 8466",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Vida Segura / Vida Máxima Mulher</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 701 2704",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Alô Bradesco Seguros</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 701 7000",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Esclarecimento de dúvidas, informações e serviços aos seguros disponibilizados pela Bradesco Seguros.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "De segunda a sexta-feira, das 08h00 às 20h00, e, aos sábados, das 08h00 às 14h00. <br>Para Assistência Dia e Noite (Bilhete Residencial), o atendimento ocorre todos os dias, 24h.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Saúde Bradesco",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Saúde Bradesco",
+          "color": "#297ef5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Todo território nacional</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 701 2700",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "<b>Fax</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "2503 1174",
+              "prefix": "(21)",
+              "size": "12"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16",
+          "link": "bseguros@bradescoseguros.com.br",
+          "link_color": "#e50934",
+          "link_font": "NewJuneBook.otf",
+          "link_size": "18"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Esclarecimento de dúvidas, informações sobre tratamento e solicitação de plano de saúde.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Dias úteis das 08h00 às 18h00",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Assistência Funeral",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Assistência Funeral",
+          "color": "#297ef5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Todo território nacional</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "0800 701 2704",
+              "size": "14"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Finalidade</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Esclarecimento de dúvidas, informações e serviços referentes à assistência funeral.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Todos os dias, 24 horas.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Banco Central",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Banco Central",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Todo território nacional</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "size": "16",
+              "number": "0800 979 2345"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "De segunda a sexta-feira, das 09h00 às 16h00, horário de Brasília.",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "collapse",
+      "title": "Serasa",
+      "color": "#6c8790",
+      "font": "NewJuneBook.otf",
+      "size": "16",
+      "icon_collapse_open": "scpup_plus",
+      "icon_collapse_close": "",
+      "usefulphones": [
+        {
+          "type": "text",
+          "title": "Serasa",
+          "color": "#297EF5",
+          "font": "NewJuneBook.otf",
+          "size": "26"
+        },
+        {
+          "type": "text",
+          "title": "<b>Meios de Comunicação</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "<b>Todo território nacional</b>",
+          "color": "#000000",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "phones",
+          "phones": [
+            {
+              "number": "3373 7272",
+              "prefix": "(11)",
+              "size": "12"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "title": "<b>Horário</b>",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        },
+        {
+          "type": "text",
+          "title": "Todos os dias, 24 horas",
+          "color": "#313131",
+          "font": "NewJuneBook.otf",
+          "size": "16"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    }
+  ]
 }
