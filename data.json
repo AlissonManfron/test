@@ -1,21 +1,21 @@
 {
   "version": 1,
   "configs": {
-     "font": "NewJuneBook.otf",
-      "text_color": "#000000",
-      "size": "16",
-      "background": "#FFFFFF",
-      "phone_icon": "scpup_ic_phone_img",
-      "phone_text_color": "#313131",
-      "phone_number_color": "#FFFFFF",
-      "background_start": "#779099",
-      "background_end": "#647e84",
-      "link_color": "#D71D32",
-      "icon_collapse_open": "scpup_plus",
-      "icon_collapse_close": "scpup_plus",
-      "icon_expand": "scpup_plus",
-      "icon_action_description": "scpup_plus",
-      "divider_color": "#cbcbcb"
+    "font": "NewJuneBook.otf",
+    "text_color": "#000000",
+    "size": "16",
+    "background": "#FFFFFF",
+    "phone_icon": "scpup_ic_phone_img",
+    "phone_text_color": "#313131",
+    "phone_number_color": "#FFFFFF",
+    "background_start": "#779099",
+    "background_end": "#647e84",
+    "link_color": "#D71D32",
+    "icon_collapse_open": "scpup_plus",
+    "icon_collapse_close": "",
+    "icon_expand": "scpup_arrow",
+    "icon_action_description": "scpup_arrow",
+    "divider_color": "#cbcbcb"
   },
   "usefulphones": [
     {
@@ -146,7 +146,7 @@
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_collapse_open": "scpup_plus",
-      "icon_collapse_close": "scpup_plus",
+      "icon_collapse_close": "",
       "usefulphones": [
         {
           "type": "text",
@@ -235,7 +235,7 @@
       "font": "NewJuneBook.otf",
       "size": "16",
       "icon_collapse_open": "scpup_plus",
-      "icon_collapse_close": "scpup_plus",
+      "icon_collapse_close": "",
       "usefulphones": [
         {
           "type": "text",
