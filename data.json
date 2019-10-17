@@ -232,7 +232,7 @@
             "font": "NewJuneBook.otf",
             "size": "16",
             "icon_collapse_open": "scpup_arrow_down",
-            "icon_collapse_close": "scpup_arrow_down",
+            "icon_collapse_close": "scpup_arrow_up",
             "usefulphones": [
                 {
                     "type": "text",
@@ -321,7 +321,7 @@
             "font": "NewJuneBook.otf",
             "size": "16",
             "icon_collapse_open": "scpup_arrow_down",
-            "icon_collapse_close": "scpup_arrow_down",
+            "icon_collapse_close": "scpup_arrow_up",
             "usefulphones": [
                 {
                     "type": "text",
