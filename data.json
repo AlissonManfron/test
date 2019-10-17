@@ -145,8 +145,8 @@
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
-      "icon_collapse_open": "scpup_plus",
-      "icon_collapse_close": "",
+      "icon_collapse_open": "scpup_arrow_down",
+      "icon_collapse_close": "scpup_arrow_down",
       "usefulphones": [
         {
           "type": "text",
@@ -234,8 +234,8 @@
       "color": "#6c8790",
       "font": "NewJuneBook.otf",
       "size": "16",
-      "icon_collapse_open": "scpup_plus",
-      "icon_collapse_close": "",
+      "icon_collapse_open": "scpup_arrow_down",
+      "icon_collapse_close": "scpup_arrow_down",
       "usefulphones": [
         {
           "type": "text",
