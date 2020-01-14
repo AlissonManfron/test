@@ -6,5 +6,5 @@
     "urlRedeDeAtendimentoDataBase": "https://newsletter.bradesco.com.br/static_files/Newsletter/DBRedeAtendimento/bradesco_ra.zip",
     "urlRedeDeAtendimentoServico": "https://institucional.bradesco.com.br/netredeatendimento/json/retIphone.aspx?timestamp=",
     "urlServicosCelular": "http://www.bradescocelular.com.br/smartphone/App/ServCel_Varejo_Facelift/default.aspx",
-    "enablePinning":false
+    "enablePinning":true
 }
