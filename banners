@@ -3,7 +3,7 @@
 	"firstBannerFixed": true,
 	"customized": true,
 	"banners": [
-	{
+		{
 			"animateTime": 0,
 			"data": "https://www.youtube.com/watch?v=nUAbMK9uVAs&feature=youtu.be",
 			"type": 1,
@@ -31,7 +31,7 @@
 				"1280": "Banners/1280/piroca-folha.jpg",
 			}
 		},
-{
+		{
 			"animateTime": 0,
 			"data": "https://banco.bradesco/coronavirus/index.shtm",
 			"type": 1,
