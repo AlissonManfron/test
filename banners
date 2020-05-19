@@ -1,0 +1,50 @@
+{
+	"randomize": false,
+	"firstBannerFixed": true,
+	"customized": true,
+	"banners": [
+	{
+			"animateTime": 0,
+			"data": "https://www.youtube.com/watch?v=nUAbMK9uVAs&feature=youtu.be",
+			"type": 1,
+			"title": "Coronavirus",
+			"imagesUrls": {
+				"568h": "Banners/568h/piroca-480.jpg",
+				"667h": "Banners/667h/piroca-640.jpg",
+				"736h": "Banners/736h/piroca-640.jpg",
+				"640": "Banners/640/piroca-640.jpg",
+				"1242": "Banners/1242/piroca-1440.jpg",
+				"1280": "Banners/1280/piroca-1440.jpg",
+			}
+		},
+		{
+			"animateTime": 0,
+			"data": "https://banco.bradesco/coronavirus/credito-para-folha-de-pagamento.shtm",
+			"type": 1,
+			"title": "Crédito Folha de Pagamento",
+			"imagesUrls": {
+				"568h": "Banners/568h/piroca-folha.jpg",
+				"667h": "Banners/667h/piroca-folha.jpg",
+				"736h": "Banners/736h/piroca-folha.jpg",
+				"640": "Banners/640/piroca-folha.jpg",
+				"1242": "Banners/1242/piroca-folha.jpg",
+				"1280": "Banners/1280/piroca-folha.jpg",
+			}
+		},
+{
+			"animateTime": 0,
+			"data": "https://banco.bradesco/coronavirus/index.shtm",
+			"type": 1,
+			"title": "Coronavirus",
+			"imagesUrls": {
+				"568h": "Banners/568h/banner-piroca-480x288.jpg",
+				"667h": "Banners/667h/banner-piroca-640x384.jpg",
+				"736h": "Banners/736h/banner-piroca-640x384.jpg",
+				"640": "Banners/640/banner-piroca-640x384.jpg",
+				"1242": "Banners/1242/banner-piroca-1440x864.jpg",
+				"1280": "Banners/1280/banner-piroca-2436x1125.jpg",
+			}
+		}		
+		
+	]
+}
