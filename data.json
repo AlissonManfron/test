@@ -1,0 +1,37 @@
+{
+	"randomize": false,
+	"firstBannerFixed": true,
+	"customized": true,
+	"banners": [
+	
+		{
+			"animateTime": 0,
+			"data": "FCC123",
+			"type": 3,
+			"title": "Crédito Folha de Pagamento",
+			"imagesUrls": {
+				"568h": "Banners/568h/credito-folha.jpg",
+				"667h": "Banners/667h/credito-folha.jpg",
+				"736h": "Banners/736h/credito-folha.jpg",
+				"640": "Banners/640/credito-folha.jpg",
+				"1242": "Banners/1242/credito-folha.jpg",
+				"1280": "Banners/1280/credito-folha.jpg",
+			}
+		},
+{
+			"animateTime": 0,
+			"data": "https://banco.bradesco/coronavirus/index.shtm",
+			"type": 1,
+			"title": "Coronavirus",
+			"imagesUrls": {
+				"568h": "Banners/568h/banner-corona-480x288.jpg",
+				"667h": "Banners/667h/banner-corona-640x384.jpg",
+				"736h": "Banners/736h/banner-corona-640x384.jpg",
+				"640": "Banners/640/banner-corona-640x384.jpg",
+				"1242": "Banners/1242/banner-corona-1440x864.jpg",
+				"1280": "Banners/1280/banner-corona-2436x1125.jpg",
+			}
+		}		
+		
+	]
+}
