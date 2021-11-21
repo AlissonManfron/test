@@ -1,0 +1,22 @@
+{
+  "jobs": [
+    {
+      "title": "Android developer",
+      "native" : true,
+      "required_experience_years": 3,
+      "country": "Brazil"
+    },
+    {
+      "title": "Android developer",
+      "native" : true,
+      "required_experience_years": 4,
+      "country": "EUA"
+    },
+    {
+      "title": "Android developer",
+      "native" : true,
+      "required_experience_years": 4,
+      "country": "Portugal"
+    }
+  ]
+}
